@@ -1,0 +1,19 @@
+current directory: /Users/yusuke/develop/rails/portfolio/rails_tutorial_v1/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.17.0/ext/bootsnap
+/Users/yusuke/.rbenv/versions/2.7.3/bin/ruby -I /Users/yusuke/.rbenv/versions/2.7.3/lib/ruby/site_ruby/2.7.0 -r ./siteconf20231201-43258-ty5rjb.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yusuke/develop/rails/portfolio/rails_tutorial_v1/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.17.0/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/yusuke/develop/rails/portfolio/rails_tutorial_v1/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.17.0/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+bootsnap.c:822:10: warning: unused variable 'contents' [-Wunused-variable]
+  char * contents = NULL;
+         ^
+1 warning generated.
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/yusuke/develop/rails/portfolio/rails_tutorial_v1/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.17.0/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20231201-43258-1c384ik/bootsnap
