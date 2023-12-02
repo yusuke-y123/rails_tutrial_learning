@@ -1,18 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+Rails Tutrial version 6の学習用
 
 * Ruby version
-
+  ruby 2.7.3p
 * System dependencies
 
 * Configuration
 
 * Database creation
-
+  rails db:create
 * Database initialization
 
 * How to run the test suite
